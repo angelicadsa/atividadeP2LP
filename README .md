@@ -1,6 +1,6 @@
 # Sistema Escolar - CRUD em C
 
-## 📌 Descrição
+##  Descrição
 
 Este projeto foi desenvolvido como parte da **Atividade Avaliativa 2 da disciplina Laboratório de Programação**, do curso de Engenharia da Computação da Universidade Federal do Maranhão (UFMA).
 
@@ -8,7 +8,7 @@ O programa implementa um **CRUD (Create, Read, Update e Delete)** utilizando a l
 
 ---
 
-## 👨‍🎓 Informações do Aluno
+##  Informações do Aluno
 
 * **Aluno:** Angélica da Silva Alves
 * **Matrícula:** 20250067604
@@ -19,33 +19,33 @@ O programa implementa um **CRUD (Create, Read, Update e Delete)** utilizando a l
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 O sistema permite:
 
-### ➕ Create (Incluir)
+###  Create (Incluir)
 
 Cadastrar um novo aluno no sistema.
 
-### 🔍 Read (Buscar)
+###  Read (Buscar)
 
 Pesquisar um aluno pelo nome e informar sua posição no banco de dados.
 
-### ✏️ Update (Modificar)
+###  Update (Modificar)
 
 Alterar o nome de um aluno já cadastrado.
 
-### ❌ Delete (Apagar)
+###  Delete (Apagar)
 
 Remover um aluno do sistema.
 
-### 📋 Listar Todos
+###  Listar Todos
 
 Exibir todos os alunos cadastrados e suas respectivas posições.
 
 ---
 
-## 🗂 Estrutura do Banco de Dados
+##  Estrutura do Banco de Dados
 
 Os registros são armazenados em uma matriz estática:
 
@@ -77,7 +77,7 @@ char banco_dados[MAX_REGISTROS][MAX_LETRAS];
 
 ---
 
-## 📋 Menu do Programa
+##  Menu do Programa
 
 ```text
 -----------------------------
@@ -113,7 +113,7 @@ sistema_escolar.exe
 
 ---
 
-## 📚 Conceitos Utilizados
+##  Conceitos Utilizados
 
 * Linguagem C
 * Matrizes bidimensionais
@@ -126,7 +126,7 @@ sistema_escolar.exe
 
 ---
 
-## 📌 Observações
+##  Observações
 
 * O sistema impede a inserção de nomes duplicados.
 * Os registros removidos são marcados como vazios e podem ser reutilizados posteriormente.
