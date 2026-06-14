@@ -61,7 +61,7 @@ char banco_dados[MAX_REGISTROS][MAX_LETRAS];
 
 ---
 
-## 🛠 Funções Implementadas
+##  Funções Implementadas
 
 | Função                  | Descrição                              |
 | ----------------------- | -------------------------------------- |
